@@ -1,0 +1,7 @@
+- Üye ayarları sayfasında ad ve parola boş bırakıldığında uyarı çıkınca
+  pencere kapanmasın
+- Değişken vs. isimleri Türkçe'ye çevrilmeli
+- KWallet açıl(a)madığı zaman kullanıcı bilgilerinin bir conf dosyasında
+  tutulması sağlanmalı
+- Plasmoid üzerinde görünecek bilgilerin [ayarlanabilir / değiştirilebilir]
+  hale gelmesi

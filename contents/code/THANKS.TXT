@@ -1,0 +1,6 @@
+Fahri Tuğrul GÜRKAYNAK <ftugrul -at- gmail.com>
+ - Üye bilgilerinin çekildiği web sayfası
+   (web page from which the member info is fetched)
+ - Üye bilgileri için XML ayrıştırıcısı
+   (xml parser for member info)
+ 
